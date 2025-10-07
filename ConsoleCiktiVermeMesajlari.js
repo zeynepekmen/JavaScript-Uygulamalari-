@@ -1,5 +1,5 @@
 //console.log() - en temel mesaj verme yöntemidir.
-console.log("Çisem Yaşar"); //string
+console.log("zeynep"); //string
 console.log(55); //integer
 console.log(3.14); //float ya da double
 
